@@ -28,5 +28,4 @@ public class Project extends AbsUUIDEntity {
     private String color;
 
 
-
 }

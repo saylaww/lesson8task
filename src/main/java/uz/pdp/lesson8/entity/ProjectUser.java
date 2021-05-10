@@ -26,5 +26,4 @@ public class ProjectUser extends AbsLongEntity {
     private TaskPermission taskPermission;
 
 
-
 }

@@ -25,5 +25,4 @@ public class TimeTracked extends AbsUUIDEntity {
     private Timestamp stoppedAt;
 
 
-
 }

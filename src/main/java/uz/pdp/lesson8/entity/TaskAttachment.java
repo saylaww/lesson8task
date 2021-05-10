@@ -26,5 +26,4 @@ public class TaskAttachment extends AbsUUIDEntity {
     private boolean pinCoverImg;
 
 
-
 }
